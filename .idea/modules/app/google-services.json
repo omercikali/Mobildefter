@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71976324601",
+    "firebase_url": "https://mobildefter-ad65e.firebaseio.com",
+    "project_id": "mobildefter-ad65e",
+    "storage_bucket": "mobildefter-ad65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71976324601:android:78eead7743f9a8ea10c128",
+        "android_client_info": {
+          "package_name": "com.aliomercik.mobildefter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71976324601-r7sli25cnaij8l7gqtfdom5sdgg9lqrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aliomercik.mobildefter",
+            "certificate_hash": "dfacf0d82dfcc3e43c3bce509cb4980a41fd301d"
+          }
+        },
+        {
+          "client_id": "71976324601-h22dd3877v3bcvd1luo6gbqbrag24fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBWp-PujSoXpBrNnet2e2LWhitOysfiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71976324601-h22dd3877v3bcvd1luo6gbqbrag24fc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
